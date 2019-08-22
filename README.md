@@ -1,2 +1,2 @@
 # ContactBook
-A simple xamarin project.
+A simple Xamarin project.
